@@ -1,0 +1,16 @@
+{
+  "name": "syncres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "syncres.js",
+  "scripts": {
+    "start": "node syncres.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^1.6.1",
+    "node-cmd": "^1.2.0",
+    "optimist": "^0.6.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+
+  "DebugResDir": {
+    "Android": "/sdcard/tmp/org.godotengine.test/files",
+    "X11": "",
+    "OSX": "",
+    "Windows": "",
+    "iOS": "",
+    "Haiku": "",
+    "Server": "",
+    "HTML5": "",
+    "BlackBerry 10": ""
+  }
+}

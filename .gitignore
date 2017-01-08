@@ -1,0 +1,10 @@
+*.lib
+*.a
+*.o
+*.obj
+*.dll
+*.so
+*.pyc
+player/export.cfg
+player/*.flags
+tools/node_modules
