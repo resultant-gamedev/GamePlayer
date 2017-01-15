@@ -18,7 +18,7 @@
 #include <main/input_default.h>
 #include <core/translation.h>
 #include <core/io/marshalls.h>
-
+#include <core/globals.h>
 
 static Variant _decode_variant(const String& p_string);
 
